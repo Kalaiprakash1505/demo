@@ -13,6 +13,7 @@
 		.labb {
 			font-size : 13px;
 			font-weight : bold;
+			fonf-family : Arial;
 		}
 		.vals {
 			font-size : 13px;
