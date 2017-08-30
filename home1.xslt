@@ -12,7 +12,6 @@
 	
 		.labb {
 			font-size : 13px;
-			avsda:asda
 			font-weight : bold;
 		}
 		.vals {
